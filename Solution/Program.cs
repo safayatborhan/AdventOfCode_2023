@@ -76,7 +76,6 @@ public class Program
                     {
                         formattedInput = formattedInput.Replace(replacement.Value, numberList[replacement.Value].ToString());
                     }
-                    //slicedInput = string.Empty;
                     slicedInput = input[i].ToString();
                 }
             }
